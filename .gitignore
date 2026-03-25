@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+resources/
+results/
+*.py[cod]
+*.so
+.DS_Store
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.tox/
+.nox/
+.hypothesis/
